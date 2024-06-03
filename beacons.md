@@ -29,6 +29,7 @@ has_children: true
 | Amazfit GTS 4 Mini   | [amazon](https://amzn.to/3nc8CrI)           | Make sure discoverable is turned on
 | Amazfit GTR 2e       | [amazon](https://amzn.to/3Awz16C)           |
 | Xiaomi Mi Band       | [amazon](https://amzn.to/3E8AJMh)           | Make sure discoverable is turned on
+| Xiaomi Mi Tags | [Ali Express](https://a.aliexpress.com/_msMm7sS)| Can pair with iSearching app. Disconnect Bluetooth after, wait for it to start beeping, it'll stop.
 | Innway Wallet Card   | [amazon](https://amzn.to/3Z8Govf)           | Rechargeable iBeacon - no need to use app or activate
 | Ultrahuman Ring      | [ultrahuman](https://www.ultrahuman.com/ring/) |
 | OpenHaystack-Beacons | [openhaystack-firmware](https://github.com/acalatrava/openhaystack-firmware/tree/main/apps/openhaystack-alternative) | Work outdoors with Apple's FindMy Network and are easily indoor-trackable
